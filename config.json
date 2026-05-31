@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymenteync",
+        "uuid": 8507800,
+        "checksum": "mg1r0g"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
